@@ -3,6 +3,7 @@ C# windows application produced in Visual Studios that emulates CRUD operations 
 
 ## Download/Deploy Instructions
 - Open the **PizzaStoreSetUp** repository and follow the instrusctions
+( https://github.com/mitchelllindgren8/PizzaStoreSetUp )
 
 ## Features
 ### Manage ToppingsAs a pizza store owner I should be able to manage toppings available for my pizza chefs
