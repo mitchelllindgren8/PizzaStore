@@ -1,6 +1,9 @@
 # PizzaStore
 C# windows application produced in Visual Studios that emulates CRUD operations by communicating to a SQL database that supports the PizzaListt.dbo and ToppingsList.dbo
 
+## Download/Deploy Instructions
+- Open the **PizzaStoreSetUp** repository and follow the instrusctions
+
 ## Features
 ### Manage ToppingsAs a pizza store owner I should be able to manage toppings available for my pizza chefs
   - It should allow me to see a list of available toppings
